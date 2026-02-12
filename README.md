@@ -1,2 +1,2 @@
 # Etale-Cohomology
-Étale Cohomology`no
+Étale Cohomology の定義や性質を目指す。
