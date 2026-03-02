@@ -214,7 +214,7 @@
 #figure(
   image("to-git.png", width: 25em),
   numbering: none,
-  caption: [ノートのソース（GitHub） \ https://github.com/Na2COOH_2/Etale-Cohomology]
+  caption: [ノートのソース（GitHub） \ https://github.com/Riley719/Etale-Cohomology]
 )
 
 #pagebreak()
