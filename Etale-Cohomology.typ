@@ -1953,6 +1953,28 @@ $
 
 #pagebreak()
 
+= #Etale Morphisms
+このChapterでは，環における#Etale Morphismを主に観察し，必要な概念の回収と定義を行う。Schemeの#Etale 射の定義は，例によって環の#Etale 射を定義し，アフィン開集合の誘導される射が#Etale 射であることを要求することで行う。ゆえに，まずは環の#Etale 射の定義を目指す。
+
+環の#Etale 射の定義は（同値な）流儀がいくつかあるが，このノートではof finite presentationかつunramifiedかつsmoothである射とする。このうちof finite presentationは既知である。一応説明すると$phi colon R --> A$がof finite presentationであるとは，ある有限変数$R$多項式環からの全射で$R$の元は$phi$で送るようなものであり
+$
+  R[x_1, dots, x_n] ->> A
+$
+というものが存在し，このkerが有限生成であるときをいう。$A cong R[x_1, dots, x_n]\/I$で$I$は有限生成，のような形になるといってもいい。
+
+unramifiedとsmoothで#Etale を定義する利点は，naive cotangent complexを使ってこれらの条件を整備できることにある。
+
+== Unramified Morphisms
+
+== Smooth Morphisms
+
+== The naive Cotangent Complex
+
+== #Etale Morphisms
+
+
+#pagebreak()
+
 #set text(lang: "en")
 #bibliography(
   "ref.bib",
